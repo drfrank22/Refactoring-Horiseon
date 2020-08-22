@@ -15,7 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-/*Given that H1, H2, H3, & H4 are only specified in one section, there is no need to have .header H1, you can simply have H1, H2, etc.*/
+
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -130,7 +130,7 @@ h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Gave H3 a font-size of 24px since H1 was 48px and H2 was 36px. It seemed a natural progression to have H3 be 24px and H4 (newly added, see notes below) be 12px.*/
+
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -176,7 +176,7 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/*I did reclassify this to be H4 since it was in the footer and I made it's font size to be 12px so it would be smaller than H3*/
+
 h4 {
     font-size: 12px;
 }
